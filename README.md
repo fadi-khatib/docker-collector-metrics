@@ -188,4 +188,4 @@ logzio/docker-collector-metrics
  - **0.0.3**: BREAKING CHANGES:
     - using beats7
     - supporting multiple modules
- - **0.0.2**: added the ability to set the type to fetched metrics.
+ - **0.0.2**: added the ability to set the type to fetched metrics..
